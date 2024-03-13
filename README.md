@@ -7,8 +7,8 @@ Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/data
 
 ## Struktur Direktori
 
-- **/dataset**: Merupakan Direktori Projek yang terdiri atas dataset yang berformat .csv
-- **/streamlit**: Terdiri atas file main.py yang merupakan kode utama dalam pembuatan visualisasi website
+- **/data**: Merupakan Direktori Projek yang terdiri atas dataset yang berformat .csv
+- **/dashboad**: Terdiri atas file main.py dan function.py yang merupakan kode utama dalam pembuatan visualisasi website
 - **notebook.ipynb**: File yang digunakan untuk melakukan analisis data.
 
 ## Instalasi
