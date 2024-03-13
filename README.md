@@ -34,6 +34,7 @@ Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/data
 1. Melakukan Akses dan Kompilasi(Local):
 
     ```shell
+    cd dashboard
     streamlit run main.py
     ```
 2. Melakukan Akses secara Cloud (online):
