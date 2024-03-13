@@ -16,7 +16,7 @@ Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/data
 1. Clone repository ke komputer lokal anda menggunakan perintah berikut:
 
    ```shell
-   git clone https://github.com/mhaidar10/Submission_Analisis_Data_Python.git
+   git clone https://github.com/RafiyatnSandya/Test.git
    ```
 2. Lakukan Instalasi Kaggle dan Konfigurasi Kaggle Api:
    dengan cara sebagai berikut :
@@ -34,8 +34,7 @@ Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/data
 1. Melakukan Akses dan Kompilasi(Local):
 
     ```shell
-    cd streamlit
     streamlit run main.py
     ```
 2. Melakukan Akses secara Cloud (online):
-   [Project Data Analytics](https://mhaidar-project-data-analytics.streamlit.app/)
+   [Project Data Analytics](http://192.168.1.34:8501/)

@@ -180,4 +180,14 @@ with col2:
 st.subheader("Customer Demographic")
 map_plot.plot()
 
-st.caption("Muhamad Sandya Rafiyatna")
+st.subheader("Kesimpulan pada Analisis Data E-Commerce Brazil")
+st.caption("Produk yang paling banyak terjual adalah yang memiliki harga antara 50 hingga 500 R$. Perusahaan memperoleh keuntungan lebih besar dengan menjual beragam produk dengan peluang penjualan yang rendah daripada hanya mengandalkan satu produk yang mahal atau murah. Rata-rata pembelanjaan pelanggan mungkin berbeda menurut lokasi geografis, dengan sebagian besar pelanggan terkonsentrasi di wilayah tenggara dan selatan. Produk yang paling diminati selama Black Friday adalah yang biasanya memiliki peringkat tinggi. Pelanggan mayoritas berada di kota-kota utama seperti São Paulo, Rio de Janeiro, dan Porto Alegre (Pada Daerah Bagian Tenggara dan Selatan)")
+
+
+
+
+
+
+
+
+st.caption("Copyright © Muhamad Sandya Rafiyatna 2024")
