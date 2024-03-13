@@ -37,4 +37,4 @@ Kaggle Dataset brazilian-ecommerce [(Link Download)](https://www.kaggle.com/data
     streamlit run main.py
     ```
 2. Melakukan Akses secara Cloud (online):
-   [Project Data Analytics](http://192.168.1.34:8501/)
+   [Project Data Analytics](https://dicoding1.streamlit.app/)
